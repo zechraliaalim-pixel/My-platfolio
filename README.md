@@ -1,2 +1,2 @@
-# My-platfolio
+# My-portfolio
 Good-repo
